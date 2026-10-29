@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://topflighttn.com/sitemap.xml
